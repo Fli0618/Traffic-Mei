@@ -1,0 +1,10 @@
+__pycache__/
+*.blend1
+*.blend2
+output/*.blend
+output/*.exr
+output/*.log
+output/*.png
+output/*.jpg
+.tools/
+node_modules/

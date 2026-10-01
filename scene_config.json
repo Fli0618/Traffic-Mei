@@ -1,0 +1,15 @@
+{
+  "project": "Meida highway accident scene",
+  "seed": 51024,
+  "road_length_m": 620,
+  "road_width_m": 24,
+  "gap_length_m": 20,
+  "forest_spacing_m": 4.6,
+  "render_samples": 48,
+  "render_width": 1600,
+  "render_height": 1200,
+  "reference_status": "Approximate reconstruction from user-supplied aerial reference; dimensions and terrain are not surveyed",
+  "scene_state": "daytime aftermath",
+  "include_monitors": false,
+  "include_warning_system": false
+}
